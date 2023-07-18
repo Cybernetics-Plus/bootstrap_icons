@@ -11,7 +11,7 @@
 
 {
     "name": "Bootstrap Icons",
-    "version": "16.1.10.5.1",
+    "version": "15.1.10.5.1",
     "summary": """ 
             Install Bootstrap Icons 1.10.5 in Odoo
             .""",
@@ -26,7 +26,7 @@
     "images": ["static/description/banner.gif"],
     "category": "Extra Tools",
     "license": "AGPL-3",
-    "price": 4.9,
+    "price": 3.9,
     "currency": "EUR",
     "installable": True,
     "application": False,
